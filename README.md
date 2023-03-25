@@ -1,7 +1,7 @@
 Hi 👋 My name is George Mathew Paul
 ===================================
 
-CS Engineer. Student
+CS Engineer. 3D Artist. Student
 --------------------
 
 A computer science engineering trying everything.
